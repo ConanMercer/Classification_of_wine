@@ -3,7 +3,7 @@ This Jupyter Notebook looks at a Wine dataset.
 
 This project uses data visualization, analysis, and machine learning.
 
-Open the IrisAnalysis.ipynb file to read through this Jupyter Notebook.
+Open the WineAnalysis.ipynb file to read through this Jupyter Notebook.
 
 This project is ongoing.
 
