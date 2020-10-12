@@ -1,5 +1,5 @@
 # Classification_of_wine
-This Jupyter Notebook looks at a Wine dataset.
+This Jupyter Notebook looks at a now famous Wine dataset.
 
 This project uses data visualization, analysis, and machine learning.
 
