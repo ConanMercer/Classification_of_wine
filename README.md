@@ -1,5 +1,5 @@
 # Classification_of_wine
-This Jupyter Notebook looks at a famous Wine dataset.
+This Jupyter Notebook looks at a famous Wine dataset from the [University of California Irvine](https://archive.ics.uci.edu/ml/datasets/wine).
 
 This project uses data visualization, analysis, and machine learning.
 
